@@ -1,0 +1,15 @@
+name: Update README
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update README
+        uses: peaceiris/actions-readme@v2
+        with:
+          template: README_template.md
+          exclude: "badges"
