@@ -20,8 +20,8 @@ jobs:
       - name: Commit and push changes
         uses: actions/checkout@v2
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "ez-neurai"
+          git config --global user.email "ssh3543@gmail.com"
           git add README.md
           git commit -m "Update README with recent posts"
           git push
