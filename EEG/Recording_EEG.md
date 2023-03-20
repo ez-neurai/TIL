@@ -1,5 +1,3 @@
-Recording_EEG
-
 # Recording EEG
 ## 3.1 뇌파 기록 시스템
 <br>
