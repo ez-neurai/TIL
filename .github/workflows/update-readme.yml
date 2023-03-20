@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update README
-        uses: ez-neurai/TIL
+        uses: ez-neurai/TIL@v1
         with:
           readme_path: README.md # Replace with the path to your README file
           mode: replace
