@@ -1,17 +1,13 @@
-- name: Readme update Actions
+- name: TIL Auto-Format README
   # You may pin to the exact commit or the version.
-  # uses: imskr/readme-update-actions@4c5e4126acfa089637c2903a896eafdb3785091c
-  uses: imskr/readme-update-actions@v2
+  # uses: cflynn07/github-action-til-autoformat-readme@359aadf76fa6451f7fde3ce19c2fe714060caa4e
+  uses: cflynn07/github-action-til-autoformat-readme@1.2.0
   with:
-    # RSS feed url
-    rss_list: # default is 
-    # Path of readme file
-    readme_path: # optional, default is ./README.md
-    # Max number of posts
-    max_post: # optional, default is 3
-    # Git username
-    commit_user: # optional, default is readme-update-bot
-    # Git user email
-    commit_email: # optional, default is readme-update-actions@example.com
-    # Git commit message
-    commit_message: # optional, default is Update readme with latest blogs
+    # Description text block featured at the top of your README.md
+    description: # optional, default is 
+    # Footer text block, can be used for things like markdown links
+    footer: # optional, default is 
+    # List most recent n TILs in section below description
+    list_most_recent: # optional, default is 0
+    # Date format visible on list of most recent TILs. Must follow Go time format guidelines
+    date_format: # optional, default is 02 Jan 06 15:04 MST
