@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update README
-        uses: crazy-max/readme-box@v2.2.1
+        uses: ez-neurai/TIL
         with:
           readme_path: README.md # Replace with the path to your README file
           mode: replace
