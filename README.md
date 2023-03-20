@@ -11,13 +11,13 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [Recording EEG](EEG/Recording_EEG.md) - Mon Mar 20 12:53:10 2023 +0900
+- [뇌파 기록](EEG/뇌파_기록.md) - Mon Mar 20 13:16:35 2023 +0900
 
 ### Categories
 
 - [EEG](#EEG)
 
 ### [EEG](#EEG)
-- [Recording EEG](EEG/Recording_EEG.md)
+- [뇌파 기록](EEG/뇌파_기록.md)
 
 
