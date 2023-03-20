@@ -5,8 +5,10 @@ on:
     - main
     paths-ignore:
     - README.md
+    
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,5 +23,7 @@ jobs:
       with:
         description: |
           **A good memory does not eqaul pale ink.**
-        list_most_recent: 2 # optional, lists most recent TILS below description
-        date_format: "" # optional, must align to https://golang.org/pkg/time/#Time.Format
+        #footer: |
+  
+        #list_most_recent: 2 # optional, lists most recent TILS below description
+        #date_format: "" # optional, must align to https://golang.org/pkg/time/#Time.Format
