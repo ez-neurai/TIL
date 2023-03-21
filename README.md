@@ -1,7 +1,5 @@
 # TIL
-> Today I Learned
-
-**A good memory does not eqaul pale ink.**
+### A good memory does not eqaul pale ink.**
 
 
 _2 TILs and counting..._
