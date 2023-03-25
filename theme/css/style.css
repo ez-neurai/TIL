@@ -2,3 +2,7 @@
   font-family: 'AppleSDGothicNeoSB';
   src: url('../fonts/AppleSDGothicNeoSB.ttf') format('truetype');
 }
+
+body {
+  font-family: "AppleSDGothicNeoSB", sans-serif;
+}
