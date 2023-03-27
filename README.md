@@ -1,8 +1,5 @@
 # TIL
 
-**A good memory does not eqaul pale ink.**
-
-
 _4 TILs and counting..._
 
 ---
