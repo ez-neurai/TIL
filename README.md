@@ -1,6 +1,6 @@
 # Today I learned
 
-_5 TILs and counting..._
+_5 개의 포스트..._
 
 ---
 
