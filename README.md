@@ -1,9 +1,7 @@
 # TIL
-> Today I Learned
-
-**A good memory does not eqaul pale ink.**
-
-
+<br>
+Today I Learned
+<br>
 _5 TILs and counting..._
 
 ---
