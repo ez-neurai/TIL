@@ -1,7 +1,5 @@
 # Today I learned
 
-_5 개의 포스트..._
-
 ---
 
 ### Categories
