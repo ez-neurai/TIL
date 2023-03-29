@@ -1,7 +1,5 @@
 # Today I learned
 
----
-
 ### Categories
 
 - [EEG](#EEG)
