@@ -1,7 +1,11 @@
 # TIL
+
 <br>
-Today I Learned
+
+**Today I Learned**
+
 <br>
+
 _5 TILs and counting..._
 
 ---
